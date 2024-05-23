@@ -1,4 +1,4 @@
-# Meu dinheiro
+# Meu Dinheiro
 Trata-se de um gerenciador simples de dinheiro, com registro de entradas(rendas) e saídas(despesas). 
 Criado em Vue.js usando Composition API. Dados armazenados em LocalStorage.
 
