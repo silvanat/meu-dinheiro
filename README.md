@@ -1,28 +1,29 @@
-# expense_tracker
+# Meu dinheiro
+Trata-se de um gerenciador simples de dinheiro, com registro de entradas(rendas) e saídas(despesas). 
+Criado em Vue.js usando Composition API. Dados armazenados em localstorage.
 
-This template should help get you started developing with Vue 3 in Vite.
+Projeto publicado em: http://www.devmobile.com.br/meu-dinheiro/
 
-## Recommended IDE Setup
+![image](https://github.com/silvanat/meu-dinheiro/assets/1665405/cd3e6a2e-11ce-4241-9359-1fe0318a1daa)
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+![image](https://github.com/silvanat/meu-dinheiro/assets/1665405/07aa09a8-f69d-46d4-a8ff-2465b66328fc)
 
-## Customize configuration
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
 
-## Project Setup
+
+## Setup do Projeto 
 
 ```sh
 npm install
 ```
 
-### Compile and Hot-Reload for Development
+### Desenvolvimento
 
 ```sh
 npm run dev
 ```
 
-### Compile and Minify for Production
+### Produção
 
 ```sh
 npm run build
