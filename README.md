@@ -1,6 +1,6 @@
 # Meu dinheiro
 Trata-se de um gerenciador simples de dinheiro, com registro de entradas(rendas) e saídas(despesas). 
-Criado em Vue.js usando Composition API. Dados armazenados em localstorage.
+Criado em Vue.js usando Composition API. Dados armazenados em LocalStorage.
 
 Projeto publicado em: http://www.devmobile.com.br/meu-dinheiro/
 
